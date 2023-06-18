@@ -1,2 +1,2 @@
 # verihash-ui
- UI demonstrating VeriHash
+ Vehicle history tracking application
